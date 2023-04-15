@@ -11,7 +11,7 @@ mailServer = "smtp.qq.com"
 # 发送方地址和接收方地址，from 和 to
 #填入发送方和收件方
 fromAddress = "1458836984@qq.com"
-toAddress = "x@fudan.edu.cn"
+toAddress = "jeekzhang@139.com"
 # 发送方，验证信息，由于邮箱输入信息会使用base64编码，因此需要进行编码
 username = "1458836984@qq.com"  # 输入自己的用户名对应的编码
 password = ""  # 此处不是自己的密码，而是开启SMTP服务时对应的授权码
@@ -218,7 +218,7 @@ class App:
     def readdata(self, path):
         """逐行读取文件"""
 
-        f = open(path, 'r', encoding='gbk')
+        f = open(path, 'r', encoding='utf-8')
         line = f.readline()
         while line:
             yield line
