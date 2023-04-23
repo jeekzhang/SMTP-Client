@@ -1,6 +1,20 @@
 # SMTP Client
 ——基于socket和gui(tk)实现的SMTP邮件客户端
 
+### 代码结构
+
+```bash
+SMTP-Client:
+│  certificate.pem          //证书文件
+│  privkey.pem				//私钥文件
+│  contact.txt              //联系人数据库
+│  draft.txt				//草稿箱数据库
+│  sended.txt				//发件箱数据库
+│  smtp.py                  //主体函数
+```
+
+
+
 ### 功能介绍
 
 含四个子功能：写邮件、通讯录、已发送、草稿箱
