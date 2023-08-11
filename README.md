@@ -21,11 +21,11 @@ SMTP-Client:
 
 ![email](./img/email.png)
 
-![contacts](.\img\contacts.png)
+![contacts](./img/contacts.png)
 
-![history](.\img\history.png)
+![history](./img/history.png)
 
-![draft](.\img\draft.png)
+![draft](./img/draft.png)
 
 
 
