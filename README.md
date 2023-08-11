@@ -19,7 +19,7 @@ SMTP-Client:
 
 含四个子功能：写邮件、通讯录、已发送、草稿箱
 
-![email](.\img\email.png)
+![email](./img/email.png)
 
 ![contacts](.\img\contacts.png)
 
