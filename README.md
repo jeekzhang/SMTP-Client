@@ -32,7 +32,7 @@ SMTP-Client:
 
 ### 复现
 
-运行时请将fromAddress替换为自己的邮箱并添加开启SMTP服务时对应的授权码，如有疑问可联系我"jeekzhang@139.com"或提交issue
+运行时请将fromAddress替换为自己的邮箱并添加开启SMTP服务时对应的授权码，如有疑问提交issue。
 
 
 
